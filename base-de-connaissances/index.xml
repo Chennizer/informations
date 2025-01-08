@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Base de connaissances on Adaptatech</title>
+    <link>/base-de-connaissances/</link>
+    <description>Recent content in Base de connaissances on Adaptatech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Aucun copyright</copyright>
+    <lastBuildDate>Sat, 30 Dec 2023 08:39:33 -0500</lastBuildDate><atom:link href="/base-de-connaissances/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imprimante 3D</title>
+      <link>/base-de-connaissances/imprimante-3d/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/base-de-connaissances/imprimante-3d/</guid>
+      <description>Résumé des différents aspects du processus d&amp;rsquo;impression 3D et du fonctionnement d&amp;rsquo;un de ces appareils dans le contexte de la création de matériel adapté.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/base-de-connaissances/imprimante-3d/featured.png" />
+    </item>
+    
+    <item>
+      <title>Initiation à la programmation physique</title>
+      <link>/base-de-connaissances/initiation-%C3%A0-la-programmation-physique/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/base-de-connaissances/initiation-%C3%A0-la-programmation-physique/</guid>
+      <description>Comment programmer des switchs adaptées utilisant une technologie digitale.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/base-de-connaissances/initiation-%C3%A0-la-programmation-physique/featured_progphysique.webp" />
+    </item>
+    
+    <item>
+      <title>Principe de fonctionnement des switchs adaptées</title>
+      <link>/base-de-connaissances/principe-de-fonctionnement-des-switchs-adapt%C3%A9es/</link>
+      <pubDate>Sat, 30 Dec 2023 08:31:54 -0500</pubDate>
+      
+      <guid>/base-de-connaissances/principe-de-fonctionnement-des-switchs-adapt%C3%A9es/</guid>
+      <description>Comment est-ce qu&amp;rsquo;une switch adaptée fonctionne et quelles en sont les composantes?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/base-de-connaissances/principe-de-fonctionnement-des-switchs-adapt%C3%A9es/featured_switch.webp" />
+    </item>
+    
+  </channel>
+</rss>
